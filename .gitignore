@@ -1,2 +1,3 @@
 maqaraadamitrans.txt
-zavod/
+zavod/*
+!almantexnikasi.txt
